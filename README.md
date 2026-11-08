@@ -1,2 +1,6 @@
 # kedy-s-launcher
-a configurable modpack or vanilla launcher for minecraft
+A launcher for my modpacked
+
+
+Download link;
+https://www.dropbox.com/t/Hz10DQcUNrkWeybJ
